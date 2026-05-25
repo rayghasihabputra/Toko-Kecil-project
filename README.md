@@ -4,5 +4,5 @@ Inspiration of making this was the author itself need to learn how to do DOM and
 Beside that Toko Kecil is one of way to express author feel about "warung" in Indonesia
 If this project will taken seriously, hopefully can digitilize "warung", but not make it complicate
 
-#Author
+## Author
 Raygha Sihab Putra
